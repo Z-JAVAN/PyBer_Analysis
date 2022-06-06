@@ -19,5 +19,5 @@ Suburban cities' average fare per driver is about $40.The average fare per drive
 ![PyBerSummaryDF.png](/Resources/PyBerSummaryDF.png)<br/>
  as a result , we can see that Urban cities have the highest ridership demand while rural cities have the least. we can see that Urban cities have the highest ridership demand while rural cities have the least.
  ![pic8.png](/Resources/pic8.png)<br/>
-  
+  The total fare in suburban cities between urban and rural cities from start to finish is between $ 700 to $ 1300.<br/>
   # Summary
