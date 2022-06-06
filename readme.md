@@ -12,3 +12,7 @@ The PyBer Summary DataFrame provides an overview comparison of PyBer's rideshari
 ![pic7.png](/Resources/pic7.png)<br/>
  The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities
  ![pic5.png](/Resources/pic5.png)<br/>
+###Results
+
+
+Suburban cities' average fare per driver is about $40.The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in urban cities. In terms of costs, it appears that riders in rural cities pay on average almost $10 more for PyBer than riders in urban cities.
