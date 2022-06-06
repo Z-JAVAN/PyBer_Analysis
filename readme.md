@@ -1,5 +1,5 @@
 # PyBer_Analysis
-we will exploratory analysis and visualization using ride sharing data to help improve access to ride sharing services and determine cost-effectiveness .
+we will exploratory analysis and visualization using ride sharing data to help improve access to ride sharing services and determine cost-effectiveness .<br/>
 ##Resources
 Software: Python 3.7.6, JupyterLab 2.26<br/>
 
