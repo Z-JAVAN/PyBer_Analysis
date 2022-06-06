@@ -25,5 +25,6 @@ Suburban cities' average fare per driver is about $40.The average fare per drive
  
  ![pic8.png](/Resources/pic8.png)<br/>
  
-  The total fare in suburban cities between urban and rural cities from start to finish is between $ 700 to $ 1300.<br/>
+ The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019.The yellow line shows how fares in urban cities totaled from around $1,600 to $2,300 from beginning to end during this five-month period.the blue trend shows how fares in rural cities totaled around $300 from beginning to end during the same time period
+ The total fare in suburban cities between urban and rural cities from start to finish is between $ 700 to $ 1300.<br/>
   # Summary
