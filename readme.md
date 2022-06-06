@@ -30,7 +30,7 @@ Suburban cities' average fare per driver is about $40.The average fare per drive
   # Summary
 There are more drivers in urban cities than rural cities.
 There is a larger use of PyBer ridesharing in urban cities.
-Drivers in rural cities are earning more than drivers in urban cities. Also,the most  of PyBer's revenue occurs in urban cities.
+ So,Drivers in rural cities are earning more than drivers in urban cities. Also,the most  of PyBer's revenue occurs in urban cities.
 Overall, PyBer ridersharing services significantly differs in rural, suruban, and urban cities is really different.
 On the other hand, the costs for using PyBer is greater among riders in rural cities than urban cities. Maybe because they can use other devices or prefer not to pay more for PyBer, because it will be expensive for them.
 Based on the available data and after analyzing all the information, we conclude that although the PyBer is higher in urban areas than in rural areas, but people prefer to pay more due to various factors and the market has a higher demand than rural areas.
