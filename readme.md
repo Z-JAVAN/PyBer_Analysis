@@ -7,5 +7,5 @@ The PyBer Summary DataFrame provides an overview comparison of PyBer's rideshari
 
 ![pic6.png](/Resources/pic6.png)<br/>
 
-
-
+ Also a larger volume of drivers in urban cities compared to suburban and rural cities. There were 2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities.
+![pic7.png](/Resources/pic7.png)<br/>
