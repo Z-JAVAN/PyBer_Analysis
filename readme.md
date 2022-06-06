@@ -28,3 +28,9 @@ Suburban cities' average fare per driver is about $40.The average fare per drive
  The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019.The yellow line shows how fares in urban cities totaled from around $1,600 to $2,300 from beginning to end during this five-month period.the blue trend shows how fares in rural cities totaled around $300 from beginning to end during the same time period
  The total fare in suburban cities between urban and rural cities from start to finish is between $ 700  to $ 1300.<br/>
   # Summary
+There are more drivers in urban cities than rural cities.
+There is a larger use of PyBer ridesharing in urban cities.
+Drivers in rural cities are earning more than drivers in urban cities. Also,the most  of PyBer's revenue occurs in urban cities.
+Overall, PyBer ridersharing services significantly differs in rural, suruban, and urban cities is really different.
+On the other hand, the costs for using PyBer is greater among riders in rural cities than urban cities. Maybe because they can use other devices or prefer not to pay more for PyBer, because it will be expensive for them.
+Based on the available data and after analyzing all the information, we conclude that although the PyBer is higher in urban areas than in rural areas, but people prefer to pay more due to various factors and the market has a higher demand than rural areas.
