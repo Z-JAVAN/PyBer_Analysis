@@ -7,5 +7,5 @@ The PyBer Summary DataFrame provides an overview comparison of PyBer's rideshari
 
 ![pic6.png](/Resources/pic6.png)<br/>
 
-
+![picture6.png](/Resources/picture6.png)<br/>
 
